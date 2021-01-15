@@ -1,16 +1,13 @@
-### Hi there 👋
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGom0927%2FGom0927&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oconlygom@gmail.com)](mailto:oconlygom@gmail.com)
 
-<!--
-**Gom0927/Gom0927** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+프로그래머는 아니지만, 프로그래머가 꿈인 2009년생입니다!
+제 실제 이름은 유승찬이며, 한국에 살고 있습니다.
+제가 할 수 있는 언어는 C, JS, JAVA(잘 못합니다ㅜ), Node.js 정도? (응용할 수 있는 언어만 적었습니다ㅎ)
+문의는 저 위에 이메일 뱃지나 gom@deflash.org로 이메일 보내주시면 됩니다 :)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+WEB : https://gom0927.github.io/gomq/
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Gom0927)](https://github.com/anuraghazra/github-readme-stats)
