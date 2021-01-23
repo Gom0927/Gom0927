@@ -8,6 +8,6 @@
 
 
 
-WEB : https://gom0927.github.io/gomq/
+WEB : https://gom0927.github.io
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Gom0927)](https://github.com/anuraghazra/github-readme-stats)
